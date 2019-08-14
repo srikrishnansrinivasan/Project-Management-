@@ -18,3 +18,8 @@ Project Closure.
 
 
 https://www.pmi.org/ 
+
+https://www.udemy.com/pmp-practice-exam/learn/quiz/4573246#overview
+
+
+https://www.udemy.com/php-for-complete-beginners-includes-msql-object-oriented/learn/lecture/2307168#overview
