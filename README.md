@@ -1,4 +1,4 @@
-# Project-Management-
+# Project-Management-       https://www.youtube.com/watch?v=rBSCvPYGnTc
 
 Project management is the practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria at the specified time.The primary challenge of project management is to achieve all of the project goals within the given constraints.[1] This information is usually described in project documentation, created at the beginning of the development process. The primary constraints are scope, time, quality and budget.[2] The secondary—and more ambitious—challenge is to optimize the allocation of necessary inputs and apply them to meet pre-defined objectives.
 
